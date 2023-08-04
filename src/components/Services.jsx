@@ -6,7 +6,7 @@ import {fadeIn, textVariant} from '../utils/motion';
 import { SectionWrapper } from '../hoc';
 import './service.css'
 import { asset15, asset16, asset17, asset18, asset20, asset23, asset22, asset4} from '../assets';
-import Footer from './footer';
+import Footer from './Footer';
 
 function Services() {
     
