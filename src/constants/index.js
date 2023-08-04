@@ -1,14 +1,3 @@
-import {
-    meta,
-    starbucks,
-    tesla,
-    shopify,
-    web,
-    management,
-    ad, 
-    personalised_websites,
-  } from "../assets";
-  
   export const navLinks = [
     {
       id: "about",
