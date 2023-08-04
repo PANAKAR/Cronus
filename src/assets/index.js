@@ -23,7 +23,6 @@ export {
   asset4,
   asset5,
   asset10,
-  logo,
   asset3,
   asset15,
   asset16,
