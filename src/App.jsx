@@ -9,7 +9,7 @@ import Services from "./components/Services"
 import { motion } from "framer-motion"
 import { slideIn } from "./utils/motion"
 import ChooseUs from "./components/ChooseUs"
-import Footer from "./components/footer"
+import Footer from "./components/Footer"
 import { BrowserRouter as Router,  Link, Route, Routes} from "react-router-dom"
 
 const App = () => {
