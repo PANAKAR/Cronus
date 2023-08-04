@@ -1,6 +1,6 @@
 import React from 'react'
 import './ChooseUs.css'
-import Footer from './footer'
+import Footer from './Footer'
 import { asset22, asset6, asset5, asset10 } from '../assets'
 
 const ChooseUs = () => {
