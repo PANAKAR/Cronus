@@ -5,7 +5,7 @@ import { styles } from '../styles'
 import { SectionWrapper } from '../hoc'
 import { slideIn, textVariant } from '../utils/motion'
 import {EarthCanvas} from './canvas/index'
-import Footer from './footer'
+import Footer from './Footer'
 
 //template_cuj93vs
 //service_25gj6l8
