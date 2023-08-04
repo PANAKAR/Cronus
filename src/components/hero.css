@@ -1,0 +1,30 @@
+.headline {
+    font-weight: 800;
+  } 
+
+  .headline > #heading{
+    margin-top: 10vh;
+  }
+  .clipped {
+    clip-path: polygon(50% 0, 100% 0, 100% 100%, 0% 100%);
+    background-image: url('../assets/asset7.jpeg');
+  }
+  @media screen and (max-width: 650px){
+    .headline {
+        margin-top: 70%;
+
+    } 
+    .clipped {
+      clip-path: none;
+      max-height: 80%;
+    }
+
+    .headline > #heading{
+        margin-top: -25vh;
+        font-size: 8vw;
+    }
+
+    #director{
+      background: none;
+    }
+  }
