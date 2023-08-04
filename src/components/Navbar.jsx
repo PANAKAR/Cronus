@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react'
 import { styles } from '../styles'
 import { NavLink } from 'react-router-dom'
-import {logo, menu, close, Logo} from '../assets'
+import { Logo} from '../assets'
 import { navLinks } from '../constants'
 import { BrowserRouter as Router, Link, useNavigate, Route, Routes } from 'react-router-dom'
 import './NavBar.css'
