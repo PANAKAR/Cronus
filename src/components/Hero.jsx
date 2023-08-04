@@ -5,7 +5,7 @@ import { hero } from '../assets'
 import './hero.css'
 import Navbar from './Navbar'
 import About from './About'
-import Footer from './footer'
+import Footer from './Footer'
 
 function Hero() {
   return (
