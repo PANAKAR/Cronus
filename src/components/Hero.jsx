@@ -22,7 +22,7 @@ function Hero() {
       <div id='director' className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center" style={{background: "none"}}>
         <a href="#about">
           <div className="w-[35px] h-[64px] rounded-3xl border-4 border-white flex justify-center items-center" style={{background: "none"}}>
-            <motion.dev 
+            <motion.div 
               animate={{
                 y:[0,24,0]
               }}
